@@ -1627,9 +1627,9 @@ button {
 .hero-three {
   height: 80.3rem;
 }
-.hero-three .hero-wrapper .hero-slider-one {
+/* .hero-three .hero-wrapper .hero-slider-one {
   background: url("../assets/images/homepage-three/hero-slide-one.webp") no-repeat center/cover;
-}
+} */
 .hero-three .hero-wrapper .wrapper-subtitle,
 .hero-three .hero-wrapper .wrapper-details {
   font-family: "Inter", sans-serif;
