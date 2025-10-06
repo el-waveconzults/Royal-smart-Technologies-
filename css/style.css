@@ -1423,15 +1423,15 @@ button {
 }
 
 .hero-slider-one {
-  background: url("../assets/images/homepage-one/hero-slider-one.webp") no-repeat center/cover;
+  background: url("../assets/images/homepage-one/slide\ image\ card\ one.jpg") no-repeat center/cover;
 }
 
 .hero-slider-two {
-  background: url("../assets/images/homepage-one/hero-slider-two.webp") no-repeat center/cover;
+  background: url("../assets/images/homepage-one/slide\ image\ card\ two.webp") no-repeat center/cover;
 }
 
 .hero-slider-three {
-  background: url("../assets/images/homepage-one/hero-slider-three.webp") no-repeat center/cover;
+  background: url("../assets/images/homepage-one/slide\ image\ card\ three.jpg") no-repeat center/cover;
 }
 
 @media (max-width:767px) {
@@ -1627,9 +1627,7 @@ button {
 .hero-three {
   height: 80.3rem;
 }
-/* .hero-three .hero-wrapper .hero-slider-one {
-  background: url("../assets/images/homepage-three/hero-slide-one.webp") no-repeat center/cover;
-} */
+
 .hero-three .hero-wrapper .wrapper-subtitle,
 .hero-three .hero-wrapper .wrapper-details {
   font-family: "Inter", sans-serif;
